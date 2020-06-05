@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kursach/static/css/main.063cb193.chunk.css",
+    "main.js": "/kursach/static/js/main.2e2a1923.chunk.js",
+    "main.js.map": "/kursach/static/js/main.2e2a1923.chunk.js.map",
+    "runtime-main.js": "/kursach/static/js/runtime-main.fa8ff11b.js",
+    "runtime-main.js.map": "/kursach/static/js/runtime-main.fa8ff11b.js.map",
+    "static/css/2.36020323.chunk.css": "/kursach/static/css/2.36020323.chunk.css",
+    "static/js/2.9da09720.chunk.js": "/kursach/static/js/2.9da09720.chunk.js",
+    "static/js/2.9da09720.chunk.js.map": "/kursach/static/js/2.9da09720.chunk.js.map",
+    "index.html": "/kursach/index.html",
+    "precache-manifest.515276d135b858b43a4a7ce09ed4331f.js": "/kursach/precache-manifest.515276d135b858b43a4a7ce09ed4331f.js",
+    "service-worker.js": "/kursach/service-worker.js",
+    "static/css/2.36020323.chunk.css.map": "/kursach/static/css/2.36020323.chunk.css.map",
+    "static/css/main.063cb193.chunk.css.map": "/kursach/static/css/main.063cb193.chunk.css.map",
+    "static/js/2.9da09720.chunk.js.LICENSE.txt": "/kursach/static/js/2.9da09720.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa8ff11b.js",
+    "static/css/2.36020323.chunk.css",
+    "static/js/2.9da09720.chunk.js",
+    "static/css/main.063cb193.chunk.css",
+    "static/js/main.2e2a1923.chunk.js"
+  ]
+}
